@@ -1,5 +1,6 @@
 # Authentication
-User Authentication using React js, Express js and MySql
+User Authentication using React js, Express js and MySql 
+along with bcrypt and jwt(JSON Web Token)
 
 ## Demo
 
